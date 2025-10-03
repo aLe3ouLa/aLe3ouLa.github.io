@@ -1,21 +1,42 @@
 {
   "files": {
     "main.css": "/static/css/main.93a0497a.css",
-    "main.js": "/static/js/main.858317ee.js",
+    "main.js": "/static/js/main.c1037452.js",
+    "static/media/Profile.jpeg": "/static/media/Profile.b52fb78a4c90e9a68729.jpeg",
     "static/media/6.png": "/static/media/6.c77f08d66763318a0ff9.png",
     "static/media/7.png": "/static/media/7.4690024430a4ea72ca72.png",
     "static/media/2.png": "/static/media/2.c703413b159f3a5121b7.png",
     "static/media/5.png": "/static/media/5.ba5319032225c0d4ed42.png",
     "static/media/4.png": "/static/media/4.977d9b50253f60f2b0ce.png",
     "static/media/3.png": "/static/media/3.4625e6c1c1d7b422ecea.png",
-    "static/media/1.jpeg": "/static/media/1.0c3e8cef97d3c4276830.jpeg",
+    "static/media/5_lisb.jpeg": "/static/media/5_lisb.7e99c6c3a887a8eddc9e.jpeg",
+    "static/media/4_portraits.jpg": "/static/media/4_portraits.5e8a38db4297de7635fb.jpg",
+    "static/media/9_ny.jpg": "/static/media/9_ny.7f20494ed762ca1ffba3.jpg",
+    "static/media/wildlife_1.jpg": "/static/media/wildlife_1.c0f34a10af8d692f1d46.jpg",
+    "static/media/3_lisb.jpeg": "/static/media/3_lisb.7f5e0db5f3d98813be5b.jpeg",
+    "static/media/1_lisb.jpeg": "/static/media/1_lisb.c8c3e5a2b592cb259323.jpeg",
+    "static/media/wildlife_3.jpg": "/static/media/wildlife_3.0adcd2dc8d4c635abb4a.jpg",
+    "static/media/wildlife_6.jpg": "/static/media/wildlife_6.b044672000fa3c91c826.jpg",
+    "static/media/5_portraits.jpg": "/static/media/5_portraits.4591e616cea6ace16c7e.jpg",
+    "static/media/wildlife_2.jpg": "/static/media/wildlife_2.01c2a81271348b5fcfe0.jpg",
+    "static/media/6_portraits.jpg": "/static/media/6_portraits.5426b1e16e769f6748b6.jpg",
+    "static/media/3_portraits.jpg": "/static/media/3_portraits.98e19412b13fdc4d4d59.jpg",
+    "static/media/1_portraits.jpg": "/static/media/1_portraits.c444759c487bbbe5f404.jpg",
+    "static/media/8_lisb.jpeg": "/static/media/8_lisb.89a46e661b7b939e47e5.jpeg",
+    "static/media/wildlife_4.jpg": "/static/media/wildlife_4.7d31127ce72afa0813c1.jpg",
+    "static/media/2_lisb.jpeg": "/static/media/2_lisb.8b3eb54efd33c340fbda.jpeg",
+    "static/media/7_portraits.jpg": "/static/media/7_portraits.bc3029533715bcdf150a.jpg",
+    "static/media/wildlife_5.jpg": "/static/media/wildlife_5.595a4fbb4de4901b83ac.jpg",
+    "static/media/1_bali.jpg": "/static/media/1_bali.d896c44bbb61ef508ea0.jpg",
+    "static/media/6_lisb.jpeg": "/static/media/6_lisb.6eb6fd40cb251c5c50af.jpeg",
+    "static/media/1_abu.jpg": "/static/media/1_abu.81b85d796c26f4ad9fa8.jpg",
     "static/media/cv.pdf": "/static/media/cv.5b8dd641d9b49d29ef91.pdf",
     "index.html": "/index.html",
     "main.93a0497a.css.map": "/static/css/main.93a0497a.css.map",
-    "main.858317ee.js.map": "/static/js/main.858317ee.js.map"
+    "main.c1037452.js.map": "/static/js/main.c1037452.js.map"
   },
   "entrypoints": [
     "static/css/main.93a0497a.css",
-    "static/js/main.858317ee.js"
+    "static/js/main.c1037452.js"
   ]
 }
