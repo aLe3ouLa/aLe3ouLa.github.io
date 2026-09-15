@@ -1,4 +1,6 @@
-import{a as e,i as t,r as n}from"./jsx-runtime-B-hcVAMW.js";var r=[{slug:`tree-shaking`,title:`Tree Shaking`,date:`2026-07-16`,tags:[`JavaScript`,`Bundling`,`Performance`],excerpt:`Learn how bundlers remove unused JavaScript and why side effects and module formats matter.`,language:`javascript`,snippet:`import { formatDate } from './utils';
+import{a as e,i as t,r as n}from"./jsx-runtime-B-hcVAMW.js";var r=[{slug:`text-box`,title:`text-box`,date:`2026-08-20`,tags:[`CSS`,`Typography`],excerpt:`Trim the leading above and below text using font metrics. No more negative-margin hacks.`,language:`css`,snippet:`.heading {
+  text-box: trim-both cap alphabetic;
+}`},{slug:`tree-shaking`,title:`Tree Shaking`,date:`2026-07-16`,tags:[`JavaScript`,`Bundling`,`Performance`],excerpt:`Learn how bundlers remove unused JavaScript and why side effects and module formats matter.`,language:`javascript`,snippet:`import { formatDate } from './utils';
 // Unused exports are removed
 // from the production bundle.`},{slug:`css-specificity`,title:`CSS Specificity`,date:`2026-07-15`,tags:[`CSS`,`Selectors`,`Cascade`],excerpt:`Learn how browsers compare selectors and decide which CSS declaration wins.`,language:`css`,snippet:`#checkout .button:hover { /* 1-2-0 */ }
 .card button            { /* 0-1-1 */ }
